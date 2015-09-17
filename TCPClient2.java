@@ -28,7 +28,7 @@ class TCPClient
 	
 	byte[] mybytearray = new byte[1024];
     InputStream is = clientSocket.getInputStream();
-    FileOutputStream fos = new FileOutputStream("fileSent1.txt");
+    FileOutputStream fos = new FileOutputStream("fileSent1.txt");// nama file yg diterima dari server pada client
     BufferedOutputStream bos = new BufferedOutputStream(fos);
     int bytesRead = is.read(mybytearray, 0, mybytearray.length);
     bos.write(mybytearray, 0, bytesRead);
@@ -39,7 +39,7 @@ class TCPClient
 	else if(sentence.equals("2")){
 		byte[] mybytearray = new byte[1024];
 		InputStream is = clientSocket.getInputStream();
-		FileOutputStream fos = new FileOutputStream("fileSent2.txt");
+		FileOutputStream fos = new FileOutputStream("fileSent2.txt");// nama file yang diterima dari server pada client
 		BufferedOutputStream bos = new BufferedOutputStream(fos);
 		int bytesRead = is.read(mybytearray, 0, mybytearray.length);
 		bos.write(mybytearray, 0, bytesRead);
@@ -49,7 +49,7 @@ class TCPClient
 	else if(sentence.equals("3")){
 		byte[] mybytearray = new byte[1024];
 		InputStream is = clientSocket.getInputStream();
-		FileOutputStream fos = new FileOutputStream("fileSent3.txt");
+		FileOutputStream fos = new FileOutputStream("fileSent3.txt");// nama file yang diterima dari server pada client
 		BufferedOutputStream bos = new BufferedOutputStream(fos);
 		int bytesRead = is.read(mybytearray, 0, mybytearray.length);
 		bos.write(mybytearray, 0, bytesRead);
