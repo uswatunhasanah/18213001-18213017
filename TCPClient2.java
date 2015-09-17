@@ -1,3 +1,8 @@
+/* Ini adalah tugas ke 2, yaitu mengirim file dari server ke client.
+Pemberian Tugas : 15 September 2015
+Pengumpulan Tugas : 17 September 2015 */
+
+
 import java.io.*;
 import java.net.*;
 import java.lang.*;
