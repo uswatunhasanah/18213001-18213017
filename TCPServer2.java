@@ -14,9 +14,9 @@ class TCPServer
 		 boolean isConnectionOpen = true;
          ServerSocket welcomeSocket = new ServerSocket
          (6789);
-		 File myFile1 = new File("serverFile1.txt");
-		 File myFile2 = new File("serverFile2.txt");
-		 File myFile3 = new File("serverFile3.txt");
+		 File myFile1 = new File("serverFile1.txt"); // insert the first file name here
+		 File myFile2 = new File("serverFile2.txt"); // insert the second file name here
+		 File myFile3 = new File("serverFile3.txt"); // insert the third file name here
          Socket connectionSocket = welcomeSocket.accept();
 			BufferedReader inFromClient =
                new BufferedReader(new InputStreamReader(
