@@ -14,7 +14,7 @@ public class UrlDownload {
                       (new InputStreamReader(url.openStream()));
 
  BufferedWriter writer = new BufferedWriter
-                      (new FileWriter("hubberspot.html"));
+                      (new FileWriter("itb.html"));
  
  String line;
 
