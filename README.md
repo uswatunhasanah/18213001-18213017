@@ -17,5 +17,5 @@ file name :
 
 Assignment 2015/09/29
 file name :
- - UrlDownload.java
- - 
+ - UrlDownload.java   untuk soal nomor 1
+ - Listinks.java      untuk soal nomor 2
