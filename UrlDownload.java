@@ -21,9 +21,8 @@ public class UrlDownload {
  while ((line = reader.readLine()) != null) {
  
      System.out.println(line);
-	writer.write(line);
-      
-    writer.newLine();
+		writer.write(line);
+		writer.newLine();
  }
 
  reader.close();
