@@ -5,10 +5,10 @@ import java.net.URL;
 public class UrlDownload {
 
    public static void main(String[] args) {
-
+		
       try {
   
- URL url = new URL("http://www.itb.ac.id");
+ URL url = new URL("http://www.itb.ac.id/news/4905.xhtml");
  
  BufferedReader reader = new BufferedReader
                       (new InputStreamReader(url.openStream()));
