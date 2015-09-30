@@ -17,5 +17,10 @@ file name :
 
 Assignment 2015/09/29
 file name :
- - UrlDownload.java   untuk soal nomor 1
- - Listinks.java      untuk soal nomor 2
+ - UrlDownload.java     untuk soal nomor 1
+ - ListLinks.java       untuk soal nomor 2
+ - DownloadLinks.java   untuk soal nomor 3
+
+Untuk ListLinks.java dan DownloadLinks.java menggunakan library tambahan bernama jsoup(jsoup.org)
+Parameter "javac -classpath <.jar library> <.java file>" untuk kompilasi
+Parameter "java -classpath .;<.jar library> <.class file>" untuk run
