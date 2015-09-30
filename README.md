@@ -22,5 +22,5 @@ file name :
  - DownloadLinks.java   untuk soal nomor 3
 
 Untuk ListLinks.java dan DownloadLinks.java menggunakan library tambahan bernama jsoup(jsoup.org)
-Parameter "javac -classpath <.jar library> <.java file>" untuk kompilasi
-Parameter "java -classpath .;<.jar library> <.class file>" untuk run
+ - Parameter "javac -classpath <.jar library> <.java file>" untuk kompilasi
+ - Parameter "java -classpath .;<.jar library> <.class file>" untuk run
