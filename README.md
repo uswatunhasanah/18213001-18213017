@@ -24,3 +24,9 @@ file name :
 Untuk ListLinks.java dan DownloadLinks.java menggunakan library tambahan bernama jsoup(jsoup.org)
  - Parameter "javac -classpath <.jar library> <.java file>" untuk kompilasi
  - Parameter "java -classpath .;<.jar library> <.class file>" untuk run
+  
+ 
+Assignment for UTS 2015/10/23
+file name:
+ -downloadJPG.sh
+ -copyfolderJPG.sh
