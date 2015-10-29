@@ -27,4 +27,3 @@ Assignment for UTS 2015/10/23
 file name :
  - downloadJPG.sh
  - copyfolderJPG.sh
-----------------------------------------------------------------
