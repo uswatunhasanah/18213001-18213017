@@ -27,6 +27,7 @@ Untuk ListLinks.java dan DownloadLinks.java menggunakan library tambahan bernama
   
  
 Assignment for UTS 2015/10/23
-file name:
- -downloadJPG.sh
- -copyfolderJPG.sh
+file name :
+ - downloadJPG.sh
+ - copyfolderJPG.sh
+
