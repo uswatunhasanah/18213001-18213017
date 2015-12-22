@@ -31,8 +31,8 @@ file name :
 
 
 Assignment for UAS 2015/12/18
-folder name : Export-to-PDF
-file name   :
+file name : Export-to-PDF
+file name :
  - himpunan.php
  - pdf_API.php
  - pdf_client.php
